@@ -6,12 +6,6 @@ Welcome to my personal portfolio website! I'm Sakshi Choudhary, a startup enthus
 
 This is a responsive personal website built using **HTML and CSS** to showcase my skills, projects, education, and contact details. The goal of this project was to apply web development fundamentals while improving the site’s aesthetics and user experience through CSS enhancements.
 
-## Live Demo
-
-[Click here to view the live website](https://sakshichdry.github.io/sakshi-portfolio)
-
-> *(Replace `yourusername` with your actual GitHub username after deploying.)*
-
 ---
 
 ## Features & Enhancements
