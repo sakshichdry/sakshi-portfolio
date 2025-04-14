@@ -47,9 +47,3 @@ This is a responsive personal website built using **HTML and CSS** to showcase m
 
 - **Email:** sakshichdry2005@gmail.com  
 - **LinkedIn:** [linkedin.com/in/sakshi-choudhary-000162315](https://www.linkedin.com/in/sakshi-choudhary-000162315)
-
----
-
-## License
-
-This project is open source and free to use under the [MIT License](LICENSE).
