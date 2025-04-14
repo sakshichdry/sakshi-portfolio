@@ -8,7 +8,7 @@ This is a responsive personal website built using **HTML and CSS** to showcase m
 
 ## Live Demo
 
-[Click here to view the live website](https://yourusername.github.io/sakshi-portfolio)
+[Click here to view the live website](https://sakshichdry.github.io/sakshi-portfolio)
 
 > *(Replace `yourusername` with your actual GitHub username after deploying.)*
 
